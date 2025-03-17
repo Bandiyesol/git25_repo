@@ -1,0 +1,7 @@
+main function_a()
+{
+}
+
+main function_a2()
+{
+}
